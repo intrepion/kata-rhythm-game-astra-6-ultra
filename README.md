@@ -73,3 +73,7 @@ For a production preview:
 npm run build
 npm run preview
 ```
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-rhythm-game-astra-6-ultra/)
