@@ -77,3 +77,7 @@ npm run preview
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-rhythm-game-astra-6-ultra/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
