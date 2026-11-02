@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "3616b6b20beb481c0e5b3003a5642222688793f5",
+  "sourceCommit": "c4b4130db782d7deb0ddc1d50c34369b5975daf1",
+  "runId": "41451259063",
+  "url": "http://127.0.0.1:4252/",
+  "inputs": {
+    "index.html": "1a17a5ea04ba7efc9cf2d4a40235c37f481416a73db11dd6a8b651f1712dc45a",
+    "assets/index-DW-yb_Y1.css": "5bbb52548707cd06291d6ebca86aa4b52b7f234f9e57933bac6ef0d039466586",
+    "assets/index-ON9Ag_AK.js": "ded32dceaf6b29dc7e72172c3c7a9441340e7b3ab1c10ba1235ba1af6186d524"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "splitbeat-astra-01.png",
+    "splitbeat-astra-02.png"
+  ]
+}

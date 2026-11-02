@@ -1,6 +1,47 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-rhythm-game-astra-6-ultra",
   "playUrl": "https://intrepion.github.io/kata-rhythm-game-astra-6-ultra/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "64dbf01775216f70415ea9c288c317ae18e58974cc4c6ce3004b80e47be87ec1",
+      "alt": "SPLITBEAT gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "ef1cb3cc0c5608c5a5d24d5f8a918e0e8fba6412aae63c2b47c666dab02f78c0",
+        "captureCommit": "c4b4130db782d7deb0ddc1d50c34369b5975daf1",
+        "workflowRunId": "41451259063",
+        "inputHashes": {
+          "index.html": "1a17a5ea04ba7efc9cf2d4a40235c37f481416a73db11dd6a8b651f1712dc45a",
+          "assets/index-DW-yb_Y1.css": "5bbb52548707cd06291d6ebca86aa4b52b7f234f9e57933bac6ef0d039466586",
+          "assets/index-ON9Ag_AK.js": "ded32dceaf6b29dc7e72172c3c7a9441340e7b3ab1c10ba1235ba1af6186d524"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "764886e158ce5f36628f4230f1df4cf55aab9b55dc0140b9431ab4ad5f8374ab"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "d38c7dd879cb4935d73a7729159a50c988f80293ae8e21c4b5b91c7a0aaedd02",
+      "alt": "SPLITBEAT gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "68c488106b05e01e93dd121a9b417dd703f3eda2d7273ec758e3d4edb13f9c0d",
+        "captureCommit": "c4b4130db782d7deb0ddc1d50c34369b5975daf1",
+        "workflowRunId": "41451259063",
+        "inputHashes": {
+          "index.html": "1a17a5ea04ba7efc9cf2d4a40235c37f481416a73db11dd6a8b651f1712dc45a",
+          "assets/index-DW-yb_Y1.css": "5bbb52548707cd06291d6ebca86aa4b52b7f234f9e57933bac6ef0d039466586",
+          "assets/index-ON9Ag_AK.js": "ded32dceaf6b29dc7e72172c3c7a9441340e7b3ab1c10ba1235ba1af6186d524"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "764886e158ce5f36628f4230f1df4cf55aab9b55dc0140b9431ab4ad5f8374ab"
+      }
+    }
+  ]
 }
